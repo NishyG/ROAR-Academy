@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-x = np.arange(1.0, 3.5)
+x = np.arange(1.0, 4.0)
 
 y1 = 2*(x)
 
